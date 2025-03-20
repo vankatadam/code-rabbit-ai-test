@@ -6,6 +6,7 @@ Their little widget: ![CodeRabbit Pull Request Reviews](https://img.shields.io/c
 1. Pretty slow, even for small PRs. Added only like 30 Lines of code and it took 5 Minutes to process. Probably the Free Trial is limited, so hopefully not so slow with Pro Subscribtion
 2. Pretty neat atleast on simple stuff: https://github.com/vankatadam/code-rabbit-ai-test/pull/1
 3. Can generate PRs on its own like this one: https://github.com/vankatadam/code-rabbit-ai-test/pull/2
+4. I got 3 App Notifications on the generated PR, which is a bit annoying
 
 
 
