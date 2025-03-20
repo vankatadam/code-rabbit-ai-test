@@ -6,7 +6,8 @@ Their little widget: ![CodeRabbit Pull Request Reviews](https://img.shields.io/c
 1. Pretty slow, even for small PRs. Added only like 30 Lines of code and it took 5 Minutes to process. Probably the Free Trial is limited, so hopefully not so slow with Pro Subscribtion. If not fast enough it is especially problematic when back to back checking ig the AI didnt haluciante some stuff, so you can reedit the main comment on it so you can specify more clearly what the pr is about. You dont want to wait for 5 Minutes, do something else and than go to the old PR and reedit the comment.
 2. Pretty neat atleast on simple stuff: https://github.com/vankatadam/code-rabbit-ai-test/pull/1
 3. Can generate PRs on its own like this one: https://github.com/vankatadam/code-rabbit-ai-test/pull/2
-4. I got 3 App Notifications on the generated PR, which is a bit annoying
+4. I got 3 App Notifications on the generated PR, which is a bit annoying. In general it spams quite a lot of notifications. But maybe changable in the notification settings for specific bots.
+5. Does it really generate that much usefull information, that you wouldnt get from writing two sentences on your own? Is the information dump/the information overhead more usefull or is it wasting more time reading through it instead of directly looking into the code
 
 
 
