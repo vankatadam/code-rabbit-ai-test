@@ -1,4 +1,21 @@
-![CodeRabbit Pull Request Reviews](https://img.shields.io/coderabbit/prs/github/vankatadam/code-rabbit-ai-test?utm_source=oss&utm_medium=github&utm_campaign=vankatadam%2Fcode-rabbit-ai-test&labelColor=171717&color=FF570A&link=https%3A%2F%2Fcoderabbit.ai&label=CodeRabbit+Reviews)
+Their little widget: ![CodeRabbit Pull Request Reviews](https://img.shields.io/coderabbit/prs/github/vankatadam/code-rabbit-ai-test?utm_source=oss&utm_medium=github&utm_campaign=vankatadam%2Fcode-rabbit-ai-test&labelColor=171717&color=FF570A&link=https%3A%2F%2Fcoderabbit.ai&label=CodeRabbit+Reviews)
+
+**Testing CodeRabbit AI for getting help with PRs, maybe some better documentation with PRs?**
+
+**Things seen so far:**
+1. Pretty slow, even for small PRs. Added only like 30 Lines of code and it took 5 Minutes to process. Probably the Free Trial is limited, so hopefully not so slow with Pro Subscribtion
+
+
+
+
+
+--------
+
+--------
+
+
+
+
 
 This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://nextjs.org/docs/app/api-reference/cli/create-next-app).
 
